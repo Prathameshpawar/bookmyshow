@@ -1,4 +1,4 @@
-package com.pp.bomyshow;
+package com.pp.bookmyshow;
 
 import java.util.HashMap;
 import java.util.Map;
